@@ -27,4 +27,4 @@ class Number():
         else:
             return False
 n=Number(30)
-print(n.sphenicNumber())
+print("result",n.sphenicNumber())
